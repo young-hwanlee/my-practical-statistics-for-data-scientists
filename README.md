@@ -1,4 +1,4 @@
-Practical Statistics for Data Scientists:
+## Practical Statistics for Data Scientists:
 50+ Essential Concepts Using R and Python
 
 by Peter Bruce, Andrew Bruce, and Peter Gedeck
