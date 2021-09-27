@@ -1,5 +1,3 @@
-# practical-statistics-for-data-scientists
-
 Practical Statistics for Data Scientists:
 50+ Essential Concepts Using R and Python
 
